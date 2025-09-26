@@ -35,6 +35,14 @@ This project is part of the **IoT-Projects Collection**.
 
 ---
 
+## 🔌 Circuit Diagram
+
+![Smart Glove Circuit](schematics/smart_glove_circuit.png)
+
+---
+
+
+
 ## 🧑‍💻 Software Requirements
 - Arduino IDE or PlatformIO  
 - Blynk IoT App (Android / iOS)  
