@@ -5,8 +5,8 @@
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 
-char ssid[] = "Ganady";
-char pass[] = "21112020";
+char ssid[] = "Write the name of network";
+char pass[] = "write the password";
 
 int gasSensor = 34;
 int buzzer = 2;
