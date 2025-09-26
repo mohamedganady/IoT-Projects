@@ -1,6 +1,10 @@
 # 🧤 Smart Glove – IoT Gas Detection with Blynk & Buzzer Alerts  
 
 
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](../LICENSE)  
+![Platform](https://img.shields.io/badge/Platform-ESP32/ESP8266-blue)  
+![IoT](https://img.shields.io/badge/Category-IoT-orange)  
+
 ## 📖 Overview
 The **Smart Glove** is a wearable IoT device designed to improve safety by detecting harmful gases with an **MQ-series sensor**.  
 It provides **dual alerts**:  
@@ -50,3 +54,4 @@ D34   → A0 (sensor output)
 ESP32 ---- Buzzer
 D25   → + (signal)
 GND   → - (ground)
+
