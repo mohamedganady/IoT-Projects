@@ -1,0 +1,3 @@
+WiFi.h
+BlynkSimpleEsp32.h      # Use BlynkSimpleEsp8266.h if using ESP8266
+Arduino.h
