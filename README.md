@@ -17,7 +17,8 @@ Projects cover **wearable devices, environmental monitoring, robotics, and smart
 
 | Project | Description | Folder |
 |---------|-------------|--------|
-| 🧤 Smart Glove – Gas Detection & Blynk Alerts | Wearable glove detecting harmful gases with buzzer and Blynk notifications | `Project1_SmartGlove_GasDetector` |
+| 🧤 Smart Glove – Gas Detection & Blynk Alerts | A wearable glove that detects harmful gases, triggers a buzzer, and sends real-time alerts via the Blynk IoT app. | `Project1_SmartGlove_GasDetector` |
+| 🚗 Car Monitoring System – ESP32 + DHT11 + OLED + Blynk | A portable car monitoring system that measures temperature, humidity, and battery voltage. Data is shown on OLED and remotely monitored via Blynk. | `Project2_Car_Monitoring_System` |
 
 
 > More projects will be added over time.  
