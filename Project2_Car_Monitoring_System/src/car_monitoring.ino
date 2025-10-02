@@ -1,6 +1,6 @@
 #define BLYNK_TEMPLATE_ID "TMPL6UueXf_VV"
 #define BLYNK_TEMPLATE_NAME "Temperature and Humidity sensor"
-#define BLYNK_AUTH_TOKEN "yDhiAodv65i0tnql21A6r62qCezUcuqi"
+#define BLYNK_AUTH_TOKEN "Add your tokens"
 
 #include <SPI.h>
 #include <Wire.h>
@@ -11,8 +11,8 @@
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 
-char ssid[] = "Ganady";
-char pass[] = "21112020";
+char ssid[] = "Add your network name ";
+char pass[] = "Add your password";
 
 BlynkTimer timer;
 
